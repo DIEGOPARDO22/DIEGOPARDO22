@@ -3,7 +3,7 @@
 ¡Hola, soy Diego Pardo! 👋
 
 ## Sobre Mí
-Soy un apasionado ingeniero de datos y científico de datos con experiencia en transformar datos en información valiosa. Mi enfoque se centra en la ingeniería de datos, data science y business intelligence para impulsar la toma de decisiones informada.
+Soy un apasionado aspirante ingeniero de datos y científico de datos con experiencia en transformar datos en información valiosa. Mi enfoque se centra en la ingeniería de datos, data science, machine learning y business intelligence para impulsar la toma de decisiones informada.
 
 ## Habilidades Técnicas
 - **Ingeniería de Datos:** Pentaho, SQL Server, MySQL, PostgreSQL.
